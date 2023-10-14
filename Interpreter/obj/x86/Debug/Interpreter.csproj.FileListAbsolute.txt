@@ -1,0 +1,7 @@
+C:\Users\jadso\OneDrive\Área de Trabalho\atividade dosea\PadroesProjetoCSharp\Interpreter\bin\Debug\Interpreter.exe.config
+C:\Users\jadso\OneDrive\Área de Trabalho\atividade dosea\PadroesProjetoCSharp\Interpreter\bin\Debug\Interpreter.exe
+C:\Users\jadso\OneDrive\Área de Trabalho\atividade dosea\PadroesProjetoCSharp\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\jadso\OneDrive\Área de Trabalho\atividade dosea\PadroesProjetoCSharp\Interpreter\obj\x86\Debug\Interpreter.csproj.AssemblyReference.cache
+C:\Users\jadso\OneDrive\Área de Trabalho\atividade dosea\PadroesProjetoCSharp\Interpreter\obj\x86\Debug\Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\jadso\OneDrive\Área de Trabalho\atividade dosea\PadroesProjetoCSharp\Interpreter\obj\x86\Debug\Interpreter.exe
+C:\Users\jadso\OneDrive\Área de Trabalho\atividade dosea\PadroesProjetoCSharp\Interpreter\obj\x86\Debug\Interpreter.pdb
